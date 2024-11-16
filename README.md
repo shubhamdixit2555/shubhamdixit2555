@@ -9,6 +9,8 @@
 ### About Me
 I’m a passionate developer with a knack for crafting seamless and dynamic web experiences. My journey in tech is fueled by curiosity and a love for innovation!
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamdixit2555&label=Views&color=blue&style=plastic" alt="Shubham" /> </p>
+
 ### Let's Connect:
 <div id="badges">
   <a href="https://github.com/shubhamdixit2555">
